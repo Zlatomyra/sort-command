@@ -1,0 +1,7 @@
+banana
+apple
+cherry
+42
+7
+15
+orange
