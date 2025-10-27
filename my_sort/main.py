@@ -1,6 +1,6 @@
 import click
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 @click.command()
 @click.argument('filename', type=click.Path(exists=True))
